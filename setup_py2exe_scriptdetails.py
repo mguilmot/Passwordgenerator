@@ -1,0 +1,10 @@
+scriptpath='generator.pyw'
+scriptname="Strong password generator"
+scriptdesc="Generates a strong password"
+scriptver="1.0"
+scripticon="icon.ico"
+scriptauthor="Mike Guilmot"
+scriptcopyright="FreeWare"
+#scriptextraincludes=(".",["file.txt","file2.txt"])
+scriptextraincludes=()
+scriptpackages=[]
